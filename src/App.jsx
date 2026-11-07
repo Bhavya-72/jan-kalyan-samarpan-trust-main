@@ -10,7 +10,6 @@ export default function App() {
       <Navbar />
       <Home />
       <Certifications />
-      
       <Footer />
     </div>
   )
